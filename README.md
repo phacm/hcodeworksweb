@@ -1,6 +1,6 @@
 # hcode
 
-The hcode startup landing page is a dependency-free static one-pager.
+The public hcode startup landing page is a dependency-free static one-pager.
 
 GitHub Pages deploys automatically from `main` using the workflow in
 `.github/workflows/deploy-pages.yml`.
